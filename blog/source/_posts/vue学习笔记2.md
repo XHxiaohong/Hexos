@@ -28,8 +28,6 @@ tags:
 &nbsp;&emsp; 4.1 组件基础
 &nbsp;&emsp; 4.2 组件通讯
 &nbsp;&emsp; 4.3 递归组件
-
-5.总结
     
 <!--more-->
 ## 声明式渲染
